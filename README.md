@@ -1,7 +1,3 @@
 # Dummy_Repo
-Dummy Repo for Testing
+Dummy Repo for Testing Codedamn Project.
 
-
-## Hello world
-
-Just a simple example
